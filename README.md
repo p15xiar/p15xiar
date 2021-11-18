@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Spiros Xiarchos
+- 👋 Hey there, I’m Spyridon Xiarchos
 - 👀 I’m interested in information systems analysis and e-commerce
 - 🌱 I’m currently learning software technologies
 - 📫 Reach me at sp@xiarchos.gr 
