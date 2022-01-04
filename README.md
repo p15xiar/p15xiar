@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Spyridon Xiarchos
-- 👀 I’m interested in information systems analysis and e-commerce
-- 🌱 I’m currently learning software technologies
-- 📫 Reach me at sp@xiarchos.gr 
+- 👋 Hey there, I’m Spiros Xiarchos
+- 🎓 I'm undergraduate student in the [Department of Unformatics](https://di.ionio.gr/), [Ionian University](https://ionio.gr)
+- 🏢 I’m currently working as a Network Managment System (NMS) Operator and IT Tech Support for Messinian Networks (MNET)
+- 👀 I’m mostly interested in Mobile Development (Swift) and Web Develompent (Angular)
