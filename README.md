@@ -1,4 +1,4 @@
 - 👋 Hey there, I’m Spiros Xiarchos
 - 🎓 I'm undergraduate student in the [Department of Unformatics](https://di.ionio.gr/), [Ionian University](https://ionio.gr)
-- 🏢 I’m currently working as a Network and IT Support Manager for Messinian Networks (MNET) and [NET7](https://net7.gr)
-- 👀 I’m mostly interested in Mobile Development (Swift) and Web Develompent (Angular)
+- 🏢 I’m currently working as a Network Administrator for MPD Intercompass.
+- 👀 I’m mostly interested in Networking and System Develompent
